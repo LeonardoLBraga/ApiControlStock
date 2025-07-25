@@ -1,5 +1,7 @@
 # 📦 ApiControlStock
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 API desenvolvida em Go para controle de estoque de produtos. O objetivo é fornecer endpoints que permitam cadastrar, listar, atualizar e excluir produtos de um estoque de forma eficiente e escalável.
 
 ## 🚀 Tecnologias Utilizadas
